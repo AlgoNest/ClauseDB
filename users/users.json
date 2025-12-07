@@ -13,5 +13,10 @@
     "name": "teseing",
     "email": "a@asf.com",
     "password": "scrypt:32768:8:1$ssXcIamK910qhspU$a9d3910a229ff303dde49d4c390db7d0b1f0ab717278af778c6c157acf507fa24554c77b55fedeb1476d0232282c52e41eb1838d44477fbb01b25ec3da3c6a7a"
+  },
+  {
+    "name": "Ahmad Hassan",
+    "email": "ahmadabuulhassan@gmail.com",
+    "password": "scrypt:32768:8:1$atEucWmloF6O2Hdy$a4447fe696eced449011f308f9ab288954ddc7a78369111ad0de518778d14334e161531ff816983665bac7e16bd72068c1e5b1c4130df116349c1568ee0b5343"
   }
 ]
