@@ -1,1 +1,17 @@
-
+[
+  {
+    "name": "erghgf",
+    "email": "werds@gmail.com",
+    "password": "scrypt:32768:8:1$Gq9RicVAhWYMNkRF$c2d852bc4c8796546d5f01f812fee9429e059e4a1383ecb1084178f7a27dc26e8a66f609f911bd983909970e5f43ad45f83cdad1bc40d9649da983b1ee0d355f"
+  },
+  {
+    "name": " asdfasd",
+    "email": "asdfaas@gmail.com",
+    "password": "scrypt:32768:8:1$a3E2PPrC5WuRpFMg$2e86226b7d1c4dd091fc44669841fc31ef49a07781a30dab492275985bc44b6fad6897072290ab9041926d5bb68ab0cf6c0fd94087cbf4757bac0a750ee692cb"
+  },
+  {
+    "name": "teseing",
+    "email": "a@asf.com",
+    "password": "scrypt:32768:8:1$ssXcIamK910qhspU$a9d3910a229ff303dde49d4c390db7d0b1f0ab717278af778c6c157acf507fa24554c77b55fedeb1476d0232282c52e41eb1838d44477fbb01b25ec3da3c6a7a"
+  }
+]
