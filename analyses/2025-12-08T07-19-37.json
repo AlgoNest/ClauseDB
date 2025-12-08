@@ -1,0 +1,37 @@
+{
+  "clause_type": "General Rental Terms",
+  "key_terms": [
+    "Rent",
+    "Security deposit",
+    "Property rules",
+    "Termination",
+    "Sublet"
+  ],
+  "risk_level": "Medium",
+  "confidence": 0.75,
+  "summary": "This clause outlines basic rental agreement terms. Rent is due on time, the security deposit is refundable if no damages occur, tenants must abide by property rules, the landlord must provide 30 days' notice for termination, and subletting requires written permission. The clause lacks detail and clarity, potentially leading to disputes.",
+  "recommendations": [
+    "Specify the rent amount and due date.",
+    "Detail the conditions for security deposit deductions and the process for return.",
+    "Provide a separate document or list outlining 'property rules'.",
+    "Clarify the grounds for termination by the landlord.",
+    "Specify the process for requesting subletting permission and the landlord's criteria for approval.",
+    "Include a clause addressing maintenance responsibilities.",
+    "Add a clause regarding property condition documentation (e.g., move-in/move-out checklists).",
+    "Ensure compliance with all applicable local and state landlord-tenant laws."
+  ],
+  "negotiation_script": {
+    "vendor": "Could you please provide a detailed list of the 'property rules' mentioned in this agreement? Also, can we discuss the specific conditions under which the security deposit might be deducted and the timeline for its return? What is the process for requesting permission to sublet, and what factors will you consider when deciding whether to grant it?",
+    "contract_additions": [
+      "A clause specifying the exact rent amount and due date.",
+      "A detailed security deposit return policy outlining allowable deductions and timelines.",
+      "A separate document or appendix listing all property rules.",
+      "A clause outlining the landlord's responsibilities for maintenance and repairs.",
+      "A clause requiring a move-in/move-out inspection checklist.",
+      "A clause specifying the process for resolving disputes."
+    ],
+    "contract_removals": [
+      "The vague statement 'Rent must be paid on time' without specifying the amount and due date."
+    ]
+  }
+}
