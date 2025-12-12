@@ -1,0 +1,34 @@
+{
+  "clause_type": "Termination",
+  "key_terms": [
+    "early termination",
+    "termination fee",
+    "30 days notice",
+    "lease agreement",
+    "landlord",
+    "tenant"
+  ],
+  "risk_level": "Medium",
+  "confidence": 0.95,
+  "summary": "This clause outlines the process for terminating the lease agreement before the agreed-upon end date. If the tenant terminates the lease early, they are required to provide the landlord with 30 days written notice and may be subject to a termination fee. The specific amount of the termination fee is not defined in this clause.",
+  "recommendations": [
+    "Specify the exact amount or calculation method for the termination fee.  A flat fee or a multiple of the remaining rent is common.",
+    "Clarify whether the termination fee covers all landlord expenses or if the tenant remains liable for the remaining rent.",
+    "Include language stating the landlord's obligation to mitigate damages by actively seeking a new tenant.",
+    "Ensure the 30-day notice period complies with local laws, as some jurisdictions may require longer notice.",
+    "Consider adding a clause allowing for termination without penalty in specific circumstances (e.g., domestic violence, military deployment)."
+  ],
+  "negotiation_script": {
+    "vendor": "Could you please clarify how the termination fee is calculated? I'd also like to understand what steps you'll take to find a new tenant if I need to move out early.",
+    "contract_additions": [
+      "A clause stating the landlord's duty to mitigate damages.",
+      "A specific calculation or maximum amount for the termination fee (e.g., 'Termination fee will be equal to one month's rent').",
+      "A clause allowing for early termination without penalty in cases of domestic violence or military deployment, with appropriate documentation.",
+      "A statement confirming the tenant is not responsible for rent after a suitable replacement tenant is found."
+    ],
+    "contract_removals": [
+      "Any language that attempts to waive the landlord's duty to mitigate damages.",
+      "Vague or undefined termination fees."
+    ]
+  }
+}
