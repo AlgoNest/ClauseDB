@@ -1,0 +1,36 @@
+{
+  "clause_type": "General Rental Terms",
+  "key_terms": [
+    "Rent",
+    "Security deposit",
+    "Property rules",
+    "Termination",
+    "Sublet"
+  ],
+  "risk_level": "Medium",
+  "confidence": 0.75,
+  "summary": "This clause outlines basic rental agreement terms. Rent is due on time, the security deposit is refundable if no damages occur, tenants must abide by property rules, the landlord must provide 30 days' notice before terminating the agreement, and subletting requires written permission from the landlord. The clause lacks detail and clarity in several areas.",
+  "recommendations": [
+    "Specify the rent amount and due date.",
+    "Detail the conditions under which the security deposit may be withheld and the process for returning it.",
+    "Provide a clear and accessible list of 'property rules'.",
+    "Clarify the grounds for termination by the landlord.",
+    "Specify the process for requesting subletting permission and the landlord's criteria for approval or denial.",
+    "Include a clause addressing maintenance and repair responsibilities.",
+    "Add a clause regarding property condition documentation (e.g., move-in/move-out checklists).",
+    "Ensure compliance with all applicable local and state landlord-tenant laws."
+  ],
+  "negotiation_script": {
+    "vendor": "Could you please provide a detailed list of the 'property rules' and clarify the process for requesting subletting permission? Also, can we discuss the specific conditions under which the security deposit might be withheld and the timeline for its return?",
+    "contract_additions": [
+      "A detailed list of property rules, attached as an exhibit.",
+      "A clause outlining the landlord's responsibility for maintenance and repairs, including response times.",
+      "A move-in/move-out checklist to document the property's condition.",
+      "A clause specifying the process for resolving disputes.",
+      "A clause stating that the landlord will comply with all applicable local and state laws."
+    ],
+    "contract_removals": [
+      "The vague phrase 'Tenant must follow property rules' without a defined list."
+    ]
+  }
+}
