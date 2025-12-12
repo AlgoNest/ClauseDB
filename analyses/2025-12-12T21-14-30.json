@@ -1,0 +1,40 @@
+{
+  "clause_type": "General Rental Agreement Provisions",
+  "key_terms": [
+    "Landlord",
+    "Tenant",
+    "Rent",
+    "Security deposit",
+    "Damages",
+    "Property rules",
+    "Termination",
+    "Sublet",
+    "Permission"
+  ],
+  "risk_level": "Medium",
+  "confidence": 0.85,
+  "summary": "This clause outlines basic terms of the rental agreement. Rent is due on time, the security deposit is refundable if no damages occur, tenants must abide by property rules, the landlord must provide 30 days' notice before terminating the agreement, and subletting requires the landlord's permission. The lack of detail in several areas creates potential for disputes.",
+  "recommendations": [
+    "Specify the exact rent amount and due date.",
+    "Detail the conditions under which the security deposit may be withheld and provide a timeline for its return.",
+    "Provide a written list of 'property rules' to avoid ambiguity.",
+    "Clarify the process for obtaining permission to sublet, including criteria and timelines.",
+    "Include a clause addressing maintenance and repair responsibilities.",
+    "Add a clause regarding property condition documentation (e.g., move-in/move-out checklists).",
+    "Specify the legal jurisdiction governing the agreement.",
+    "Include a clause addressing dispute resolution (e.g., mediation)."
+  ],
+  "negotiation_script": {
+    "vendor": "Could you please provide a detailed list of the 'property rules' mentioned in this agreement? Also, what is the process for requesting permission to sublet, and what criteria will be used to evaluate such requests? Finally, can we clarify the conditions under which the security deposit may be withheld and the timeline for its return?",
+    "contract_additions": [
+      "A detailed list of property rules.",
+      "A clause outlining the process for subletting, including timelines and criteria.",
+      "A clause specifying maintenance and repair responsibilities for both landlord and tenant.",
+      "A move-in/move-out checklist to document the property's condition.",
+      "A clause addressing dispute resolution (mediation or arbitration)."
+    ],
+    "contract_removals": [
+      "The vague phrase 'Tenant must follow property rules' without a defined list."
+    ]
+  }
+}
