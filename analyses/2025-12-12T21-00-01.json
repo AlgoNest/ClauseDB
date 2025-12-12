@@ -1,0 +1,35 @@
+{
+  "clause_type": "Termination",
+  "key_terms": [
+    "early termination",
+    "termination fee",
+    "30 days notice",
+    "lease agreement",
+    "landlord",
+    "tenant",
+    "written notice"
+  ],
+  "risk_level": "Medium",
+  "confidence": 0.95,
+  "summary": "This clause outlines the process for terminating the lease agreement before the agreed-upon end date. Both the landlord and tenant can terminate the lease with 30 days written notice. If a tenant terminates the lease early, they may be required to pay a termination fee, the amount of which is not specified in this clause. This fee is intended to compensate the landlord for the costs associated with finding a new tenant.",
+  "recommendations": [
+    "Specify the exact amount or calculation method for the termination fee.  Vague language like 'termination fee' is problematic.",
+    "Clarify whether the termination fee covers the landlord's entire loss or is capped at a specific amount.",
+    "Include a clause stating the landlord's obligation to mitigate damages by actively seeking a replacement tenant.",
+    "Ensure the 30-day notice period complies with local laws, as some jurisdictions may require longer notice.",
+    "Add a clause addressing the tenant's right to terminate early without penalty if the landlord breaches the lease agreement (e.g., failure to maintain the property)."
+  ],
+  "negotiation_script": {
+    "vendor": "Could you please clarify how the termination fee is calculated and what expenses it covers? Also, can you confirm that you will actively seek a replacement tenant to minimize the financial impact on me if I need to terminate the lease early?",
+    "contract_additions": [
+      "A clause stating the termination fee will not exceed one month's rent.",
+      "A clause requiring the landlord to actively mitigate damages by listing the property for rent promptly and showing it to prospective tenants.",
+      "A clause allowing early termination without penalty if the landlord fails to maintain the property in a habitable condition.",
+      "A clause specifying that any rent received from a new tenant after the early termination date will be credited towards the termination fee."
+    ],
+    "contract_removals": [
+      "Any language that attempts to waive the tenant's right to a habitable dwelling as a condition for lease termination.",
+      "Any language that imposes a termination fee exceeding what is reasonably necessary to cover the landlord's losses."
+    ]
+  }
+}
