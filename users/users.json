@@ -23,5 +23,10 @@
     "name": "jjk",
     "email": "add@jotmail.com",
     "password": "scrypt:32768:8:1$QhC8aIO22A0vvXEw$e117ffcb3216110a5040e738b3376842d399b647dae26f627d413e05a590b4af524c9f5a950063d8482857ba91d34cdeffcfb1bb0956fa8555c2cc1753b78dfc"
+  },
+  {
+    "name": "Ahmad ",
+    "email": "ahdhd@gmail.com",
+    "password": "scrypt:32768:8:1$0kzj50FaaURkyFRO$e8287d78c49da7867dd53175540b41d360e69990cf492944b27664d61e4055d232fe8ef3ae9f214dffbcc80a79cbe85d7d016cd7d6dddc763985af1f767be3b6"
   }
 ]
