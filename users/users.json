@@ -18,5 +18,10 @@
     "name": "Ahmad Hassan",
     "email": "ahmadabuulhassan@gmail.com",
     "password": "scrypt:32768:8:1$atEucWmloF6O2Hdy$a4447fe696eced449011f308f9ab288954ddc7a78369111ad0de518778d14334e161531ff816983665bac7e16bd72068c1e5b1c4130df116349c1568ee0b5343"
+  },
+  {
+    "name": "jjk",
+    "email": "add@jotmail.com",
+    "password": "scrypt:32768:8:1$QhC8aIO22A0vvXEw$e117ffcb3216110a5040e738b3376842d399b647dae26f627d413e05a590b4af524c9f5a950063d8482857ba91d34cdeffcfb1bb0956fa8555c2cc1753b78dfc"
   }
 ]
