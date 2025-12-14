@@ -1,0 +1,13 @@
+{
+  "clause_type": "N/A - This is a test document, not a rental agreement clause.",
+  "key_terms": [],
+  "risk_level": "Low",
+  "confidence": 1.0,
+  "summary": "This document is a model test for the Goethe-Zertifikat A1 Start Deutsch 1 exam. It contains various exercises (listening, reading, writing, speaking) designed to assess basic German language proficiency. It does not contain any rental agreement terms.",
+  "recommendations": [],
+  "negotiation_script": {
+    "vendor": "N/A - This is not a contractual document.",
+    "contract_additions": [],
+    "contract_removals": []
+  }
+}
