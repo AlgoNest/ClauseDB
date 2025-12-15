@@ -1,0 +1,39 @@
+{
+  "clause_type": "Overall Rental Agreement",
+  "key_terms": [
+    "Agreement",
+    "Landlord",
+    "Tenant",
+    "Parties",
+    "Premises",
+    "Term",
+    "Rent",
+    "Security Deposit"
+  ],
+  "risk_level": "Medium",
+  "confidence": 0.9,
+  "summary": "This is a standard residential lease agreement outlining the basic terms between a landlord and tenant. It defines the parties involved, the property being leased, the lease term, rent amount and payment details, and the security deposit (if applicable). The agreement lacks detail in several areas, which could create ambiguity and potential disputes.",
+  "recommendations": [
+    "Specify late fee amounts and grace periods for rent payments.",
+    "Include a detailed description of utilities and services included or excluded from the rent.",
+    "Add a clause outlining the landlord's responsibility for maintenance and repairs, including response times.",
+    "Include a property condition checklist or inventory to be completed and signed by both parties at the beginning and end of the lease.",
+    "Clarify the process for providing notice of termination or renewal.",
+    "Ensure compliance with local laws regarding security deposit handling, including interest accrual and permissible deductions.",
+    "Add a clause addressing subletting or assignment of the lease.",
+    "Include a clause regarding quiet enjoyment of the premises."
+  ],
+  "negotiation_script": {
+    "vendor": "Could you please clarify the process for handling maintenance requests and the timeframe for responses? Also, can we discuss the possibility of adding a property condition checklist to ensure accurate documentation of the premises' condition at the start and end of the lease?",
+    "contract_additions": [
+      "A clause detailing the landlord's maintenance and repair obligations, including response times.",
+      "A property condition checklist/inventory.",
+      "A clause addressing subletting or assignment.",
+      "A clause guaranteeing quiet enjoyment of the premises.",
+      "A clause specifying the process for resolving disputes."
+    ],
+    "contract_removals": [
+      "Any clauses that are overly restrictive or violate local tenant laws."
+    ]
+  }
+}
