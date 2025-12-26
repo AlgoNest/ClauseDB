@@ -1,0 +1,13 @@
+{
+  "clause_type": "N/A - This is not a rental agreement clause; it is a sales invoice.",
+  "key_terms": [],
+  "risk_level": "Low",
+  "confidence": 1.0,
+  "summary": "This document is a sales invoice detailing a purchase of various spices and food items from a store in Lahore, Pakistan. It lists the items, quantities, prices, and the total amount due. It is not related to a rental agreement.",
+  "recommendations": [],
+  "negotiation_script": {
+    "vendor": "N/A - This is not a rental agreement clause.",
+    "contract_additions": [],
+    "contract_removals": []
+  }
+}
